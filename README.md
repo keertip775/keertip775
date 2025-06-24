@@ -1,19 +1,43 @@
-<h1 align="center">Hi 👋, I'm Keerti P</h1>
-<h3 align="center">A passionate Flutter Developer from India</h3>
+### 👩‍💻 Hi there, I'm Keerti Policepatil! 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keertip775&label=Profile%20views&color=0e75b6&style=flat" alt="keertip775" /> </p>
+🌟 A passionate **Software Quality Assurance Tester** with a focus on **manual & mobile testing** for web and mobile apps. I love finding bugs before users do and making sure every feature works perfectly!  
 
-- 🌱 I’m currently learning *Flutter framework*
+---
 
-- 💬 Ask me about *Flutter and Dart*
+🔧 **Tech & Tools I Work With**  
+- 🧪 **Testing Tools:** JIRA 🐞 | Postman 🔁 | Chrome DevTools 🌐 | Microsoft Excel 📊  
+- 🖥️ **Testing Types:** Manual, Functional, Regression, Smoke, UI/UX, Cross-Browser & Mobile  
+- 📚 **QA Concepts:** SDLC | STLC | Defect Life Cycle | Requirement Analysis | Severity & Priority  
+- 🧠 **Programming:** Python 🐍 | Dart 🎯  
+- 📱 **Platforms:** Web & Mobile (Android/iOS)  
 
-- 📫 How to reach me *keertip775@gmail.com*
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🛠️ **Recent Work Experience**
+- 👩‍💼 **Intern at AV Creations** – Improved test coverage by 25%, wrote 50+ test cases, and reported 30+ bugs via JIRA!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+📌 **Project: Website Testing (kishanthaventures.com)**  
+✔️ Validated responsiveness & UI consistency  
+🚨 Reported 15+ critical issues before deployment  
+📲 Tested across Chrome, Edge, and mobile devices  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keertip775&show_icons=true&locale=en&layout=compact" alt="keertip775" /></p>
+---
+
+🎯 **What I’m Learning:**  
+- Test Automation Basics  
+- More about API Testing & DevOps  
+
+🎨 **Fun Facts**  
+- 🎶 Love music & singing  
+- 📱 Passionate about exploring apps and websites  
+- 🧩 I enjoy finding UX flaws and edge cases  
+
+---
+
+🔗 **Let's Connect**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/keertipolicepatil)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/keertip775)
+
+---
+
+💡 *“Quality means doing it right when no one is looking.”* – Henry Ford  
