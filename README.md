@@ -1,43 +1,75 @@
-### 👩‍💻 Hi there, I'm Keerti Policepatil! 
+### 👋 Hi, I’m Keerti Policepatil
 
-🌟 A passionate **Software Quality Assurance Tester** with a focus on **manual & mobile testing** for web and mobile apps. I love finding bugs before users do and making sure every feature works perfectly!  
+💻 **Software QA Engineer | Manual + Automation Tester | Bug Hunter**
 
----
-
-🔧 **Tech & Tools I Work With**  
-- 🧪 **Testing Tools:** JIRA 🐞 | Postman 🔁 | Chrome DevTools 🌐 | Microsoft Excel 📊  
-- 🖥️ **Testing Types:** Manual, Functional, Regression, Smoke, UI/UX, Cross-Browser & Mobile  
-- 📚 **QA Concepts:** SDLC | STLC | Defect Life Cycle | Requirement Analysis | Severity & Priority  
-- 🧠 **Programming:** Python 🐍 | Dart 🎯  
-- 📱 **Platforms:** Web & Mobile (Android/iOS)  
+🎯 Passionate about delivering **high-quality software** with a blend of meticulous manual testing and smart automation.  
+🧠 Curious learner exploring the world of DevOps, CI/CD, and modern test frameworks.
 
 ---
 
-🛠️ **Recent Work Experience**
-- 👩‍💼 **Intern at AV Creations** – Improved test coverage by 25%, wrote 50+ test cases, and reported 30+ bugs via JIRA!
+🔧 **Tools & Frameworks I Work With**
 
-📌 **Project: Website Testing (kishanthaventures.com)**  
-✔️ Validated responsiveness & UI consistency  
-🚨 Reported 15+ critical issues before deployment  
-📲 Tested across Chrome, Edge, and mobile devices  
+🚀 **Automation & Frameworks**  
+- Selenium WebDriver 🕷️ (Java, Python)  
+- Cypress ⚡  
+- Appium 📱  
+- REST Assured 🌐  
+- Karate API 🥋  
+- Cucumber + Gherkin 🥒  
+
+🛠️ **Performance & Security Testing**  
+- JMeter 🔥  
+- LoadRunner ⚖️  
+- Burp Suite 🔒  
+
+☁️ **Cloud & DevOps**  
+- AWS ☁️  
+- Docker 🐳  
+- Jenkins ⚙️  
+- Maven 🏗️  
+- Git & GitHub 🌿  
+
+💡 **Programming & Scripting**  
+- Java 🟦  
+- Python 🐍  
+- JavaScript ✨  
+- C# 💠  
+- SQL 🗄️  
 
 ---
 
-🎯 **What I’m Learning:**  
-- Test Automation Basics  
-- More about API Testing & DevOps  
-
-🎨 **Fun Facts**  
-- 🎶 Love music & singing  
-- 📱 Passionate about exploring apps and websites  
-- 🧩 I enjoy finding UX flaws and edge cases  
-
----
-
-🔗 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/keertipolicepatil)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/keertip775)
+📝 **Key Skills**
+- Manual Testing (Functional, Regression, Smoke, UI/UX, Cross-Browser)
+- API Testing (Postman, SoapUI)
+- Mobile App Testing (Android)
+- Agile & Scrum Practices
+- Defect Lifecycle Management (JIRA)
+- Test Automation Design & Execution
+- Performance & Security Validation
 
 ---
 
-💡 *“Quality means doing it right when no one is looking.”* – Henry Ford  
+🌟 **Certifications**
+- 🧩 Selenium Automation Testing
+- ⚙️ Jenkins Essentials
+- 🧪 JUnit & JMeter
+- 💡 Agile Scrum Foundation
+- 🐍 Python Programming Basics
+- 🚀 CI/CD Foundations
+*(and more...)*
+
+---
+
+🎵 **Outside Work**
+- Singing & Music 🎤🎶
+- Exploring new testing tools 🧭
+- Finding bugs before users do 🐞
+- Learning emerging QA trends 🚀
+
+---
+
+📫 **Let’s Connect**
+[🌐 LinkedIn](https://www.linkedin.com/in/keertipolicepatil)  
+[🐙 GitHub](https://github.com/keertip775)
+
+💡 *“Quality is never an accident. It is always the result of intelligent effort.”* – John Ruskin
